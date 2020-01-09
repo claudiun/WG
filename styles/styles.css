@@ -1,0 +1,15 @@
+canvas {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+}
+
+html, body, div, canvas {
+    margin:0;
+    padding:0;
+}
+#preloader{
+    font-size: 25px;
+    color: green;
+    position: absolute;
+}

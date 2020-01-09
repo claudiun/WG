@@ -1,0 +1,17 @@
+{
+    "name": "WG",
+    "version": "1.0.0",
+    "author": "Claudiu",
+    "description": "WG game test",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/claudiun/WG"
+    },
+    "dependencies": {
+        "pixi.js": "^4.5.5",
+        "http-server": "^0.12.1",
+        "gsap": "3.0.5"
+    },
+    "scripts": {},
+    "devDependencies": {}
+}
